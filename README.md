@@ -80,18 +80,12 @@ flutter run
 
 ## Screenshots
 
-**Home Screen:**  
-![Home Screen](screenshots/home.png)
+| Home Screen                         | Chat Screen                          | Status Screen                            | Status Viewer                              |
+| ------------------------------------ | ------------------------------------ | ---------------------------------------- | -------------------------------------------- |
+| ![Home Screen](screenshots/home.png) | ![Chat Screen](screenshots/chat.png) | ![Status Screen](screenshots/status.png) | ![StatusViewer](screenshots/statusview.png) |
 
-**Chat Screen:**  
-![Chat Screen](screenshots/chat.png)
-
-**Status Screen:**  
-![Status Screen](screenshots/status.png)
-
-**Status Viewer**  
-![StatusViewer](screenshots/statusview.png)
 
 ## 📄 License
 
 This project is for **educational purposes** only.
+
